@@ -1,0 +1,9 @@
+# 忽略test_images文件夹
+test_images/
+uploads/
+.idea/
+.vscode/
+.pytest_cache/
+venv/
+ __pycache__/
+
